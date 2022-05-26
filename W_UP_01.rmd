@@ -50,6 +50,13 @@ The skilled players are doing a better job at push ups then the line players bas
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+
+```{r}
+favstats(pushups~position,data=mydata)
+```
+
+The line men do about 17 push ups whereas the skilled men do 50 push ups. The data shows that the skilled players do about three times as many push ups as the lie men.
+
 ## Inferential Results
 
 <!--State hypothesis clearly. Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc. Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
