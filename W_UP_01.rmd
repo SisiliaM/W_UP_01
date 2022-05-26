@@ -44,7 +44,7 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 boxplot(pushups~position,data=mydata)
 ```
 
-The skilled players are doing a better job at push ups then the line players based on the data. The data shows that the greatest number of push ups for the line men is 20 and for the skilled men is 60.
+The skilled players are doing a better job at push ups then the line players based on the data. The data shows that the greatest number of push ups for the line men is the lowest number for the skilled men.
 
 ### Numerical Descriptive Results
 
